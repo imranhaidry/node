@@ -1,0 +1,17 @@
+{
+  "name": "rest-express2",
+  "version": "1.0.0",
+  "description": "This is a test project",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.0",
+    "lodash": "^4.17.21",
+    "nodemon": "^2.0.19"
+  },
+  "devDependencies": {}
+}
